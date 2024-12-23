@@ -1,0 +1,434 @@
+[
+    {
+        "message": "",
+        "key": "d3 70 47 92 b1 7e 57 08",
+        "mac_size": 1,
+        "mac": "cd"
+    },
+    {
+        "message": "50 ac cb 6d 6c 29 89 7b b8 ca fd 93 27 0f cc 03 80 da c2 34 07 ad 6b 76 59 d2 35 d0 3a 9a c5 7d d2",
+        "key": "d3 70 47 92 b1 7e 57 08",
+        "mac_size": 1,
+        "mac": "47"
+    },
+    {
+        "message": "05 98 0b 47 c5 f9 49 a7 83 b6 84 cf ef cd 04 29 39 ac ce 08 57 96 4a 85 b9 3f 76 7d 43 eb e8 53 77 97 7a 13 30 c8 ff 3f 86 6f d0 f3 12 cf eb f3 e6 25 dc be ef 5b 1e ff 5e e4 74 5c 1c 0c 68 0b 15 9f 6b",
+        "key": "d3 70 47 92 b1 7e 57 08",
+        "mac_size": 1,
+        "mac": "d4"
+    },
+    {
+        "message": "83 83 33 dc e5 23 81 23 29 b3 6a 9a 28 a2 e6 5a 09 ee b0 61 03 f5 d7 6b 0f 34 9b 48 5f 53 ac d3 0d 7f ca ac ee 79 27 43 ed e2 f2 74 2c 36 b7 2c 5e 9e 94 af ff 4b 98 4d b3 c2 6e a9 5e 87 d2 5c 0a db 0a 22 cb 42 f9 74 d0 04 91 c4 2c 2e 2c dc 5d 6f 7f fb c2 06 48 3d 9f d2 29 f8 b6 c1 8c 70 90 fc 02 9d c1 ec 0f 60 22 aa 54 0b b0 00 3b 95 07 c2 09 01 e3 d0 53 3c 06 4c 22",
+        "key": "d3 70 47 92 b1 7e 57 08",
+        "mac_size": 1,
+        "mac": "50"
+    },
+    {
+        "message": "ba 75 e8 31 50 86 e5 f0 63 c6 da e8 0f 45 88 4d b4 ea 4d 89 ce b7 bb 5d 7e 6d a5 c5 7e 30 f0 e5 f9 95 7c 3d 60 25 7a 50 42 31 ac aa b2 18 8a 8c 6b 07 5c 73 97 b9 9f 6f de 36 50 78 58 75 a3 10 66 8c 29 a7 57 d2 a4 95 6c c5 1e 53 75 d5 14 d8 45 a2 7d 80 fd 11 0b 28 cf c9 98 d7 3a a8 6b 39 b8 bd 43 f8 bf dc b1 69 37 14 06 3d 9c e8 73 09 09 8d 20 08 22 68 21 7f a0 19 19 4d",
+        "key": "d3 70 47 92 b1 7e 57 08",
+        "mac_size": 1,
+        "mac": "00"
+    },
+    {
+        "message": "3a 53 67 d1 af 32 4f 9b 6e 8a 6b a8 e2 de 70 12 ce 63 92 88 6f ce 9c ec 54 85 e9 da 79 1c b9 14 37 f6 51 26 46 46 69 62 0b 58 36 91 61 8d 10 f2 a4 eb c9 5f 61 ea b7 e9 57 18 ef 99 f6 39 50 26 12 0b e8 1c a1 5e bb f6 07 00 88 c6 48 61 ec c5 e9 28 bb 18 99 79 09 71 6a d0 96 2a e6 5e 60 fb f6 06 b5 ce 8f 88 e0 30 ad 11 9c f2 19 2a 43 59 70 42 e8 6e de cf 71 f8 80 33 01 6a 72",
+        "key": "d3 70 47 92 b1 7e 57 08",
+        "mac_size": 1,
+        "mac": "fb"
+    },
+    {
+        "message": "",
+        "key": "d3 70 47 92 b1 7e 57 08",
+        "mac_size": 2,
+        "mac": "87 cd"
+    },
+    {
+        "message": "66 e6 d7 3e a1 39 48 ae 2d f6 52 46 20 48 bd 24 06 47 04 9e db 6a 98 85 c1 94 af 2d 01 f2 68 dd 1e",
+        "key": "d3 70 47 92 b1 7e 57 08",
+        "mac_size": 2,
+        "mac": "67 ea"
+    },
+    {
+        "message": "c5 e2 5b 44 38 0a ab 74 c1 3a 75 4d 33 5d 39 2a 5e 65 11 a9 9e d4 12 a6 3f 1e 6a f1 6c b4 30 d2 96 72 9f 2c 92 fc 0a c7 95 32 14 2d 98 05 ea 7a 66 74 d9 c5 1c 6e fa 58 6c ff fb 53 c8 30 49 6f 27 42 39",
+        "key": "d3 70 47 92 b1 7e 57 08",
+        "mac_size": 2,
+        "mac": "f6 de"
+    },
+    {
+        "message": "e2 3d 48 01 78 53 7b 8b 84 32 6b b6 69 26 2e 0b db 7c e7 54 8f f7 9c e5 b2 b8 c5 51 21 85 1c 3e 8d f7 75 14 3e 2e 03 43 0b cb b3 72 54 7b a0 67 1c 97 35 95 31 e5 81 28 7f 81 fd 63 28 c1 ad eb 6f 89 9a de 31 25 ea 7e 56 e0 60 ac f6 e7 ba e4 2a ee cc 3d e2 85 7f bc e6 96 7d 86 c5 7d 05 fe 9f be 18 e9 ef a5 8d 45 a8 e8 25 85 f4 50 8b 7b 6a 8b 23 9a ed 22 f8 7f ee 11 10",
+        "key": "d3 70 47 92 b1 7e 57 08",
+        "mac_size": 2,
+        "mac": "a8 b9"
+    },
+    {
+        "message": "d3 3a 93 2a 95 68 48 7d 32 90 9e ac b4 03 21 76 be 90 e2 e5 b9 72 b0 66 75 34 c1 22 ca a6 a1 6b 0d 25 92 8a a0 4d be 95 d6 2b 67 59 6b 15 e6 89 6e 30 48 63 ef ce 69 7d a3 3f a6 b3 ad a2 71 2a a2 46 08 8f fc 1a fc 70 a4 35 41 19 49 4b fb f7 0b ec 56 f9 af d2 48 6a 3e b4 3d d4 c9 96 0a 09 b4 45 3c df a6 7e b9 00 60 ab 46 70 0a 2f 11 89 75 f4 9f 10 23 59 f2 0c a3 df 81 59",
+        "key": "d3 70 47 92 b1 7e 57 08",
+        "mac_size": 2,
+        "mac": "ae 1e"
+    },
+    {
+        "message": "2f 08 be 17 ec 42 ea 26 c5 75 d7 1b 2d 75 b4 9b 34 7a 3e 74 e7 1c 5d d5 1c ce 20 fe 1f b6 ad cc 6d 96 2c 7c 7f 24 a9 23 01 73 69 75 62 6d ae dc 39 2c bf 6f e7 47 4c c6 41 e3 48 80 ec 5e 32 ec 07 53 74 72 ef e0 dd 57 52 3d e9 b9 4f ca 55 42 0a 7f df e5 10 32 ea c9 8a a1 a7 b2 96 9b 4f 75 78 15 5e 6c 37 60 10 54 55 8a 47 a6 6f b1 08 85 14 a7 d7 e8 01 d6 fc 85 0b 1f 54 27 bd",
+        "key": "d3 70 47 92 b1 7e 57 08",
+        "mac_size": 2,
+        "mac": "a6 8a"
+    },
+    {
+        "message": "",
+        "key": "d3 70 47 92 b1 7e 57 08",
+        "mac_size": 3,
+        "mac": "2f 87 cd"
+    },
+    {
+        "message": "b3 79 c2 3c ff 2e b4 52 c3 1f 7e 9e 78 1b 6c 08 13 8a e0 af 79 6b 11 32 af 72 81 a4 ee 63 98 e7 96",
+        "key": "d3 70 47 92 b1 7e 57 08",
+        "mac_size": 3,
+        "mac": "41 2b f4"
+    },
+    {
+        "message": "b1 15 48 93 08 14 55 d4 86 bd e0 a0 63 01 9c 7a 92 07 60 06 d9 24 be ce 74 cf ca 1d f3 f3 5c f6 77 0a d9 4b 04 89 73 6f 09 34 e9 d9 d9 4d dd db be 47 1d 3f 9b bb de b7 66 4e 10 4a 76 a1 80 e3 c2 cb 16",
+        "key": "d3 70 47 92 b1 7e 57 08",
+        "mac_size": 3,
+        "mac": "1e 9d 00"
+    },
+    {
+        "message": "6c 1d d6 0b 65 1a e5 98 3d d5 c0 e9 8d 7e f5 8c a9 87 4f c4 0d 57 d2 fb 37 77 5e f6 cb d1 08 1b c8 be 37 fb 24 27 14 d1 ca 97 15 49 5f 57 a2 29 c1 34 85 ab fe 09 32 7a 9b 80 2a 24 2a 7a 69 5c f0 9e 5a 98 3f 4e 92 66 d5 92 69 eb c4 fd 6e c9 dc 29 25 31 a3 13 61 fc 96 fe 90 59 95 36 bb 2e 73 36 6a 14 20 d2 6a 97 08 ff d4 31 8b 40 3f 6d 6f 00 2c 35 0a 6d 7c fc 84 93 18",
+        "key": "d3 70 47 92 b1 7e 57 08",
+        "mac_size": 3,
+        "mac": "78 2a 0e"
+    },
+    {
+        "message": "15 4e 33 af fe 35 ec ff 13 1c fa 4e c3 6c 35 e3 e2 f9 52 f6 30 f9 b8 76 36 e2 f8 dc 86 48 63 be 69 89 5c c0 d9 09 fb b1 fa 5d cc d3 c0 95 bf 85 9f 16 f4 b8 72 a1 69 6c 11 60 97 72 95 b5 00 aa f3 65 52 be e0 8c 36 8e 3c b1 60 35 04 5b 11 44 1c c4 f7 98 60 70 44 5d 28 6c ad 1d e3 8d 94 a0 c2 42 63 c8 f3 84 8b a0 93 be fb 01 c0 ef a7 35 52 47 83 6c 28 15 1a 9c 7c 0b 91 68",
+        "key": "d3 70 47 92 b1 7e 57 08",
+        "mac_size": 3,
+        "mac": "88 5e 62"
+    },
+    {
+        "message": "ce 54 fb df 5f 70 c0 61 86 f8 0f df 54 bc e6 cf 7b ba fa a6 8c 35 22 33 00 d6 f6 11 1b e0 b3 c5 62 ae 6b 6c 46 03 10 cc 08 2a ca 16 17 3f ea d2 cc d9 24 0e 81 d2 16 59 d7 e4 33 41 9a 84 37 5c d5 ad f5 74 0e 7b 96 6c 92 01 68 c2 d0 15 91 31 47 c2 fb a0 be b3 db bf 27 e9 50 48 fd 66 78 77 ca 0b f0 b1 85 ad 43 4b ac 70 aa 81 2d 19 d8 7f e7 75 ed 81 60 11 75 e8 41 bc 7c 43 67",
+        "key": "d3 70 47 92 b1 7e 57 08",
+        "mac_size": 3,
+        "mac": "5f a6 14"
+    },
+    {
+        "message": "",
+        "key": "d3 70 47 92 b1 7e 57 08",
+        "mac_size": 4,
+        "mac": "da 2f 87 cd"
+    },
+    {
+        "message": "0e b1 0f 71 ab 33 b6 a3 4f 3d 6e 57 9d b3 56 59 d6 f1 fe b9 5f 74 ed 46 32 72 8b 7b fc f2 ee e7 72",
+        "key": "d3 70 47 92 b1 7e 57 08",
+        "mac_size": 4,
+        "mac": "86 12 b1 fa"
+    },
+    {
+        "message": "5a 52 70 da ca 33 1d 7a 65 ee 51 96 cc 78 db 7a f7 b5 7d 15 68 29 8c b0 31 cc 30 8a 3e f0 47 b8 21 e9 f4 5d eb b0 14 cd ea e5 d9 b8 31 ea be 67 be 44 2f e9 b7 6d 25 cb 5c 6e 23 2b 9a 47 f8 f6 28 59 9a",
+        "key": "d3 70 47 92 b1 7e 57 08",
+        "mac_size": 4,
+        "mac": "38 2c 07 ed"
+    },
+    {
+        "message": "6c 9c 0a fe 6a 36 6e 6a a5 e2 7c b8 aa f3 71 90 26 dd c3 10 7b ec 74 98 14 c5 e7 d8 37 df c9 bb 4f 0b 22 d6 c8 68 61 4e 89 67 2d 04 b1 66 7e 97 bc e6 e1 53 14 e2 c5 a6 a0 f6 74 52 75 11 e9 12 60 9d 8d bd df 5b 83 65 7c 08 3d 9c 56 54 bd 5f f5 41 46 48 83 d3 11 9b 58 a7 b5 2f 98 2c a8 3d d4 ce 24 2b 8b f1 c6 4e 6b 9f 6f 18 3b 00 5d 8e 8b f9 62 ca 4e 8d 2f d1 60 8c ef",
+        "key": "d3 70 47 92 b1 7e 57 08",
+        "mac_size": 4,
+        "mac": "f1 96 75 c1"
+    },
+    {
+        "message": "cf 4f a6 0d c4 d0 49 38 93 6c ed 91 3a 99 b2 be e4 67 ea 12 a3 27 7e f3 82 9b f1 6b 18 09 15 31 cf ae cc 91 b5 ac 67 92 97 8f df fb a6 cb 76 70 20 dc 37 ea 4b 7c 90 f9 9a 32 f7 cd 42 93 9d de 0f 7c eb 97 ab ba 1b 04 b7 81 79 64 39 2f 8a 33 dd 45 df 56 ee 7b 15 d9 9c 52 56 e3 90 76 01 93 f1 54 d7 30 9a 7c d7 85 74 52 c1 ee 50 f1 4f cf 97 fd 66 90 a0 3c 98 c3 40 21 51 c5",
+        "key": "d3 70 47 92 b1 7e 57 08",
+        "mac_size": 4,
+        "mac": "9e 13 b5 4f"
+    },
+    {
+        "message": "bd 41 6a f4 61 d5 e9 d5 e1 7e a2 53 0d 5b c8 de f8 0d 33 0c 66 b5 5a a8 c0 71 39 b1 7d ad 08 94 e2 d8 d5 0c 25 64 5b 09 fe 95 af 90 15 fa af 5d 6e ae 17 dc 06 71 67 ef 95 a4 a3 65 d8 70 16 53 a2 8b e5 99 e4 6d 6b a3 c9 d8 e2 2b 94 9b d0 c5 14 5e 61 28 c5 e7 0e 1e cc 6c 26 9b 3d 07 11 ca d8 c4 4e dd 30 51 6c 58 8b 61 f5 ff 91 15 0e 2a 26 b5 f8 07 7f bc 10 b9 77 7f c5 eb 89",
+        "key": "d3 70 47 92 b1 7e 57 08",
+        "mac_size": 4,
+        "mac": "64 b4 b5 46"
+    },
+    {
+        "message": "",
+        "key": "44 a5 d8 82 59 44 33 ce",
+        "mac_size": 1,
+        "mac": "72"
+    },
+    {
+        "message": "89 5f 6f 59 33 bd 94 16 b6 f7 bc 65 4a 3c 72 70 32 90 f0 93 b6 2a 83 e1 db a9 02 59 6e ad 45 0f 25",
+        "key": "44 a5 d8 82 59 44 33 ce",
+        "mac_size": 1,
+        "mac": "6b"
+    },
+    {
+        "message": "ed 99 89 ec 36 90 95 dd ac be da 71 ee 7d dc b4 eb e3 86 78 1f 74 1f 9c 96 16 9d 73 fe a0 f9 b8 8e 59 21 71 92 31 6c fc 63 cd aa 9a 60 e3 d2 2c 55 b1 91 5a 6e b9 fc d2 85 b4 6f 6c ff 88 82 d2 ae 2f d3",
+        "key": "44 a5 d8 82 59 44 33 ce",
+        "mac_size": 1,
+        "mac": "1c"
+    },
+    {
+        "message": "85 a4 e5 57 2f 5a a5 f4 91 fb 0b 8f f5 dd 47 83 a9 61 59 75 f3 a9 63 63 70 05 c0 31 e4 1b d7 18 06 60 d2 6e 66 af 22 a4 22 19 0e 27 be 80 95 0a 03 dd a4 ee 38 63 33 dc 97 99 fd 2f b2 90 da a3 15 0e 46 a2 d2 3a ac 30 e8 56 ec 91 9f b0 c3 6d fb 29 83 f9 19 e2 d5 e8 bd 3e 29 cb ca d5 a4 e6 f5 77 35 5c c2 48 22 8f 45 27 49 60 77 59 d3 f5 87 1f c6 0c 3a d3 fb 9a 3c 45 0d",
+        "key": "44 a5 d8 82 59 44 33 ce",
+        "mac_size": 1,
+        "mac": "f4"
+    },
+    {
+        "message": "a0 c0 5d 2a 8c f4 9b 4f c3 25 d3 f4 8e 1b 28 f3 92 6b 2b 39 93 c9 ae 0c 0e c0 7a 94 91 0b 3f 2d ac 2c 82 19 d2 17 dd a2 4d eb 86 90 b7 39 47 5c f3 35 02 d6 e8 f9 81 2f 7c 7a 79 4d 27 d0 87 f2 d6 f5 ad d9 97 ee f2 0a c6 af 53 65 85 6f 1a 99 4b fd 6f c3 ee cc c3 6d 03 d9 e6 13 5b 10 68 58 e2 3c 71 c2 39 ff e6 31 72 cc dd 7d 5f e0 ad 29 a9 ca 1a 2b e1 31 d7 67 d3 8e 10 cf",
+        "key": "44 a5 d8 82 59 44 33 ce",
+        "mac_size": 1,
+        "mac": "86"
+    },
+    {
+        "message": "4c bc 99 c0 e6 0a 9b f6 56 b4 dd 77 0e 9d eb f0 a5 30 fe c6 72 45 08 54 e9 03 f0 e0 40 01 8e 09 b2 b0 50 2c 10 3b 57 d5 7c db 30 e1 be 54 1b 2d b6 dd d6 94 9b 83 c8 b4 37 ea ae 6b f1 df 33 27 76 48 6b 83 a2 50 4a a4 27 dd d4 e3 45 d0 64 b2 e9 d6 57 64 6f 57 21 f8 60 97 23 18 bf ed 87 65 86 6f b1 f5 0f ad 2b d0 ad 0f 4e 1e 92 0e 2c 3c f8 08 59 1b a4 e9 32 6c b6 e7 c0 b8 a3",
+        "key": "44 a5 d8 82 59 44 33 ce",
+        "mac_size": 1,
+        "mac": "8d"
+    },
+    {
+        "message": "",
+        "key": "44 a5 d8 82 59 44 33 ce",
+        "mac_size": 2,
+        "mac": "a4 72"
+    },
+    {
+        "message": "da 18 93 4f 65 bb 27 b9 85 34 3b 4a c4 1d 99 88 ab 77 48 a6 2c 6f 71 d9 ca 7c 36 e4 77 ae 5c 19 58",
+        "key": "44 a5 d8 82 59 44 33 ce",
+        "mac_size": 2,
+        "mac": "98 82"
+    },
+    {
+        "message": "f8 16 6a d5 af 45 3f e8 81 88 95 85 08 6f a7 9e 1f 55 a6 79 d1 aa 9a 9b e8 e2 99 3e 61 ae 53 88 ac 40 66 4a 72 df 20 03 be 7b 46 aa 56 33 76 28 75 1d bf f6 35 47 54 ad 54 f9 eb 62 66 40 83 b1 eb 99 3a",
+        "key": "44 a5 d8 82 59 44 33 ce",
+        "mac_size": 2,
+        "mac": "4b ab"
+    },
+    {
+        "message": "bb 1b ce 18 81 74 a2 82 1e d8 11 a3 1f bc 13 c3 88 1d 6c 79 4e 98 87 19 9a cb b3 93 51 4a e9 e7 fc 6d 2d 66 93 db 30 95 b9 c6 c4 37 8f b8 8d 49 ce e1 ff 5a 0b a8 db 11 74 27 04 f8 ab e2 f1 e1 97 a4 41 30 17 c3 56 9f a6 76 bf dc 84 76 e2 8e f0 ad ff 87 50 c1 ae 06 76 71 2a 13 91 cf 73 66 16 32 ac cf 17 1d 01 08 49 ef 6c 04 6b 90 34 a7 aa 58 53 d6 7e 5e 38 6e c9 a7 56",
+        "key": "44 a5 d8 82 59 44 33 ce",
+        "mac_size": 2,
+        "mac": "f1 20"
+    },
+    {
+        "message": "13 ba 7a d5 ff 9d 2a eb d7 a6 9d 2d 6b 4b 1c ba ee b9 20 0c 66 c3 c1 5b e5 85 0f 53 f6 b0 15 a0 9b 7e e3 79 b1 02 9a fc cc a7 88 c9 b6 d6 cc 2b f4 e5 d3 04 65 2a a0 34 8b 1d 97 20 3e 1d 09 4a 7f 08 8f f5 a8 ee 16 d2 c4 63 98 33 49 d1 36 3f 8b c1 fc e7 1d 09 13 3f 0a 75 e6 62 0b 31 5d 9d 09 3e 87 8b a9 be a6 95 d1 ba 75 98 79 7c 32 6b 81 ea ad df 00 d8 15 8d 38 1d cc c2",
+        "key": "44 a5 d8 82 59 44 33 ce",
+        "mac_size": 2,
+        "mac": "2c 79"
+    },
+    {
+        "message": "1d e5 f5 07 16 dc 16 20 f0 f0 65 01 eb 18 89 1f 89 5a 15 07 1f 85 ac d6 5c 8d 14 0e f8 57 89 af ff 24 4e c5 2d ef 78 c4 65 79 a9 fa 62 50 88 2d bc 4e e8 1f fd 86 72 b1 47 23 a1 62 7f b6 41 11 cd ae be 03 84 bf 7c a9 d3 4b 19 6f ae 70 00 bd 3d 2e 63 a9 1b 2e cf 2e d0 45 c7 9f 40 b6 f7 6b da 5b cc e6 a8 31 3c 0c 55 a7 3b 8d 85 b0 65 2b c4 58 82 0d bb 3c e7 b3 e8 f5 56 60 94",
+        "key": "44 a5 d8 82 59 44 33 ce",
+        "mac_size": 2,
+        "mac": "5d 21"
+    },
+    {
+        "message": "",
+        "key": "44 a5 d8 82 59 44 33 ce",
+        "mac_size": 3,
+        "mac": "c3 a4 72"
+    },
+    {
+        "message": "19 e1 87 75 90 a5 8c 74 0a f6 f7 55 35 13 8d 2f 0b 92 d6 08 1b 19 1a 66 ef c6 a1 a0 ab a4 b7 75 7d",
+        "key": "44 a5 d8 82 59 44 33 ce",
+        "mac_size": 3,
+        "mac": "d0 41 11"
+    },
+    {
+        "message": "cc e2 dd f3 d6 64 97 b5 10 38 85 b6 bb 65 55 5d c7 a0 7c aa 57 f9 0f 12 f9 53 98 23 f3 96 eb 43 e7 e5 d0 40 0e 32 13 2d 1c 0d 55 17 50 2b f3 75 42 db 67 03 63 aa 52 27 ff eb 2c 47 12 93 1d 14 ed df e8",
+        "key": "44 a5 d8 82 59 44 33 ce",
+        "mac_size": 3,
+        "mac": "37 5a b2"
+    },
+    {
+        "message": "74 c8 5f 86 83 26 f8 4e 2b a7 0a 24 2a cb 53 c4 29 48 c2 1a c5 9f 7d 89 dc 88 d1 1e 6f e3 aa 49 4d c3 94 b4 a1 c4 49 9e b1 f7 80 ce ab d8 aa 55 08 7d 4c cf 8f d8 e5 00 32 28 67 93 39 49 79 42 e2 ee 9c a2 a7 30 e2 ee 0b be f1 c0 79 17 79 84 2a a7 7a 6d dc b8 25 e0 14 94 7f 82 e0 09 5c 25 2a 27 8a b6 2a 1a 31 0f 29 5d 46 a2 5b fa 7d 0e 49 85 db 9b 32 f0 71 0f 8b 74 a5",
+        "key": "44 a5 d8 82 59 44 33 ce",
+        "mac_size": 3,
+        "mac": "26 f6 a0"
+    },
+    {
+        "message": "9b 5d 01 36 73 82 1b 89 48 d4 be 03 c5 5d c3 36 c0 9c 89 25 68 dd 48 4e be e4 42 dc 2b fc f8 b0 5b d6 88 d7 59 9c 3d 6b 05 0b a2 26 b0 f2 c1 db 05 55 e4 06 d6 74 c6 5f 11 9d 25 84 b6 c4 5a ab 9d 6c c0 b5 b0 cd 95 1d 8f 3c 52 7a 6b 8b ae 4c 4d 6d d3 76 fe e7 e0 d9 dd a3 b4 76 86 63 f0 2c 5c 55 78 e7 07 db 3b a0 6d e2 07 24 a0 80 1c 07 2f f9 1d 67 92 32 fa 9b b6 01 6d 27",
+        "key": "44 a5 d8 82 59 44 33 ce",
+        "mac_size": 3,
+        "mac": "3d 98 e5"
+    },
+    {
+        "message": "4a 6d 90 73 9d 50 06 a8 a5 03 3f e6 aa 34 55 b3 41 14 51 d3 90 fc 4d d1 10 a7 f0 c5 61 02 d6 2d 30 98 b4 56 d7 d2 b4 81 e9 77 46 ab f4 d0 25 78 73 e9 9e 27 79 40 0b 0b 75 ce 61 7d a3 b4 27 97 bb cd ad 63 4f c1 9c 2a a7 9c 3b 78 54 fa b2 b3 ce e5 2a 46 3e 6e 56 fb 45 42 33 36 40 61 a0 7e 9c f4 14 85 4d d9 7a 5a 65 ac 53 a7 97 f7 fa f5 3c 88 11 90 ed 86 dd c4 59 d3 f9 f3 da",
+        "key": "44 a5 d8 82 59 44 33 ce",
+        "mac_size": 3,
+        "mac": "73 5b b9"
+    },
+    {
+        "message": "",
+        "key": "44 a5 d8 82 59 44 33 ce",
+        "mac_size": 4,
+        "mac": "fe c3 a4 72"
+    },
+    {
+        "message": "8e 75 73 8e 5e af 2f 61 b0 17 35 26 1a a0 1b e4 9c e4 40 a4 46 75 e3 f3 a8 2e 0b 51 d3 02 15 bd f0",
+        "key": "44 a5 d8 82 59 44 33 ce",
+        "mac_size": 4,
+        "mac": "ec 2a 66 18"
+    },
+    {
+        "message": "51 e6 3e 51 42 24 41 21 df c1 22 0e c4 ff 28 75 5f f5 a5 0d 27 fc 79 ac 50 45 a3 55 c8 06 31 f8 82 51 22 87 3f 4c 9b 85 80 d2 64 0c cc f4 4f 61 b7 bd 23 9c 91 13 bb c6 bb f8 74 eb 89 39 76 c9 2f d0 14",
+        "key": "44 a5 d8 82 59 44 33 ce",
+        "mac_size": 4,
+        "mac": "b9 9c f1 03"
+    },
+    {
+        "message": "ba 78 e6 e9 91 0c a8 b2 b6 0c b0 b8 35 22 32 09 99 8c aa 20 67 b6 80 08 10 4d cf fd 4d f2 82 02 a7 2d 41 ee e9 34 b8 5d 55 a8 6d 6f e3 71 b1 38 26 b9 c7 a8 ae 0d 41 7a 3a 31 94 d5 12 bd ee 90 22 e7 b8 ea 96 71 76 a9 fa b7 18 b9 93 b5 b5 ef 2b 22 31 17 f6 28 59 1a 9f 35 5d 11 5c 3b 95 f5 c6 91 c4 5d 95 5c ee ce 70 15 bc 74 ee fe 80 6d cf 58 b3 4f 10 e3 79 2d 6f de bf",
+        "key": "44 a5 d8 82 59 44 33 ce",
+        "mac_size": 4,
+        "mac": "c4 2d 63 01"
+    },
+    {
+        "message": "50 ac 6b 20 15 66 81 c3 b0 75 56 a1 b1 7b 52 66 2a 2d 1a 8b 16 b9 b2 b2 ab 4c 57 8a 2b 9b 49 31 c5 0d 4b ae 5f 73 8e f3 6e ee e2 be 01 89 d1 3d 33 fd 28 b8 6e 67 fe 27 e6 32 9f d6 62 c2 d4 61 4d f2 da 37 55 c6 f0 dc c4 5e ff 83 10 fe 25 99 43 c3 4b 7d 4c d2 a4 af 5e 9f 67 d4 7c ca 7a d1 2b 0f d7 a9 5a ce ca 62 58 a5 c8 c9 96 1c a3 f5 bd 68 d2 30 0f 65 c1 fc 44 43 63 11",
+        "key": "44 a5 d8 82 59 44 33 ce",
+        "mac_size": 4,
+        "mac": "ff 4b 65 0c"
+    },
+    {
+        "message": "6c 09 01 89 d7 c6 bf ba 42 7c d6 bf fc 62 a8 27 25 30 90 da 14 5c 2e 9b 89 b3 75 97 e3 08 c3 89 cf 6a 54 21 fa 16 4a 12 e4 5f 24 a8 e9 24 62 65 ec ea a8 74 9c 77 b7 16 1d 00 b0 da 72 70 de f2 10 db 91 35 ec 28 15 f0 03 cd 03 03 ff f1 43 74 6d 6f c8 2d 26 e1 01 aa a6 da b9 2b a0 11 f2 5d 93 16 62 62 5c 0b c2 a1 61 2c 32 35 8b f8 75 3f 56 8b 7e 55 62 09 91 4c a3 38 cd 96 42",
+        "key": "44 a5 d8 82 59 44 33 ce",
+        "mac_size": 4,
+        "mac": "29 7a 5b 87"
+    },
+    {
+        "message": "",
+        "key": "24 cf aa 27 79 a2 3e 0f",
+        "mac_size": 1,
+        "mac": "d9"
+    },
+    {
+        "message": "37 c2 0d 7c 2f 62 ae 6a 19 6f 06 5b e0 cc 79 57 05 c5 41 01 37 af 58 53 67 11 98 ac 45 ad 1e 4b 80",
+        "key": "24 cf aa 27 79 a2 3e 0f",
+        "mac_size": 1,
+        "mac": "64"
+    },
+    {
+        "message": "74 6b c4 e5 9c 66 b6 c6 0e bb da b2 80 72 79 e0 2b 47 a1 96 c9 3b 4c 0c 53 9b 11 68 9e ad cf b6 c7 3b a7 48 11 f0 93 75 66 43 a0 2b aa 5d ce df d5 14 1f d3 41 e8 91 1d 47 50 21 e4 ea 26 ba d6 94 04 6b",
+        "key": "24 cf aa 27 79 a2 3e 0f",
+        "mac_size": 1,
+        "mac": "01"
+    },
+    {
+        "message": "d3 93 fa 6d 6a bb a8 fd 12 0d bb 17 68 6e e4 1e 4c 92 4f 76 d7 cc 5c 29 a3 48 8b e0 1a 21 f6 ca 53 ab cc 12 61 2d dd d1 f5 6b f4 60 a6 aa 02 88 43 b9 81 14 8e 47 5e f4 ee 84 ce 01 b1 a4 2e 85 f0 26 a2 d3 7a ba 74 b9 07 7d fd 8c e9 bd 88 42 1c bb 18 92 87 4f a7 7b 78 6c 37 e6 47 4e 66 dd 7a 9a c1 15 b9 0c e7 6b 36 42 c0 f1 c1 18 ac 1d 26 8d ca c0 a4 3f 2f 68 27 d4 d9",
+        "key": "24 cf aa 27 79 a2 3e 0f",
+        "mac_size": 1,
+        "mac": "73"
+    },
+    {
+        "message": "88 cd 0c 7a 53 d9 b1 d0 ab 98 82 38 41 35 d0 64 a9 8d 87 e5 1d dd ef 05 97 26 a0 71 3b 6c 5e ff 14 25 72 75 29 1a 06 a2 06 d9 71 91 d0 7e 30 b6 ef 0c 3c 7e b9 64 15 b2 0e 9e 6b 6b a5 e3 7a 4c 58 86 d8 8f 54 ed 2a a8 95 76 bb 27 75 0b 65 73 9e 25 a5 2a 7d 8f 0e 3a d4 23 eb 78 8a a7 e1 7f 80 f9 8c 92 23 a7 be 77 4c 66 4e 67 b8 60 4b 4d c1 13 0e f9 b4 38 db bf 3f 00 19 8d",
+        "key": "24 cf aa 27 79 a2 3e 0f",
+        "mac_size": 1,
+        "mac": "73"
+    },
+    {
+        "message": "57 51 ad e8 60 14 bb 72 d4 e1 19 99 04 79 7c c2 7e 26 f0 05 97 95 33 80 27 b6 60 8b 62 1d 1a 5e 74 33 80 a1 99 c3 73 b4 cf 2b c4 d0 28 25 c7 76 a9 91 ad 4d cd 50 09 2f 71 a8 01 3c 29 d5 19 39 e0 d1 ad 5f 62 b2 6b 9a 11 e5 1d 29 52 08 f3 87 31 7c 83 c7 8e ed 1b d5 9d 73 f0 06 39 a2 a5 8a 0b 1a 96 90 15 d0 b3 cc b2 be 4d d5 e4 a2 74 db bc 4f 4b 08 98 6c f2 0e c6 82 1a 2a 6b",
+        "key": "24 cf aa 27 79 a2 3e 0f",
+        "mac_size": 1,
+        "mac": "ff"
+    },
+    {
+        "message": "",
+        "key": "24 cf aa 27 79 a2 3e 0f",
+        "mac_size": 2,
+        "mac": "16 d9"
+    },
+    {
+        "message": "ec df ef fd 8d 5e f8 c2 e3 a1 bb 4e fd e5 27 2a eb da 93 c4 41 a5 1a 32 57 23 46 07 b1 56 05 2b 77",
+        "key": "24 cf aa 27 79 a2 3e 0f",
+        "mac_size": 2,
+        "mac": "08 85"
+    },
+    {
+        "message": "8d 1b 6e 50 2e fe fc 0a cc 8e 0e 81 db 64 d6 3e 66 92 1d 09 22 bf 6c 04 cf e3 42 24 a9 2f eb ad 71 ae 44 7d 4a 2e 3e 74 12 19 71 c5 aa db 1c 5a c4 b7 ab 05 ed 1c a4 6b 14 0d 98 a1 54 e8 22 ae 79 3d 5b",
+        "key": "24 cf aa 27 79 a2 3e 0f",
+        "mac_size": 2,
+        "mac": "4e c3"
+    },
+    {
+        "message": "1a e0 45 42 d2 12 68 04 b0 88 93 27 7f 79 7d 41 77 4c b8 0a c3 5c 10 24 55 62 60 a7 49 f3 90 af db 22 1c aa 6e 52 57 e5 19 d9 3e 3d 27 2d 45 1d 5d c3 e6 83 8c 61 af b6 a9 26 29 f8 d3 1a 00 ee b9 35 2f 79 e1 75 f1 c6 eb 0b 21 c4 33 1b e4 4b d6 0d bc 59 33 d1 fa 51 68 bf 54 8d da 54 2a 6d 13 a0 5b c7 54 db 5d dd 29 5d ab b2 f9 d7 33 54 aa 2f ed 98 fa de ee d1 4f 6f 4b",
+        "key": "24 cf aa 27 79 a2 3e 0f",
+        "mac_size": 2,
+        "mac": "b2 f6"
+    },
+    {
+        "message": "5b d1 f3 6d a3 cc 73 0e 2a 79 7d 1b fd c7 73 7b bd f6 64 aa 72 bf 05 b9 28 e6 3e b7 7e ba 15 5c fb 09 67 7c 16 87 fd b9 1e 02 ef 6f 18 6c 91 78 df 8c 68 5b 00 2e e2 11 12 09 60 28 7d c2 b7 94 37 18 e5 30 9c 59 96 8c 50 95 d5 c1 43 e4 5c 52 f8 3f de 49 f3 6b f8 32 33 3d 48 01 3b 84 4d fc 8a 0e c9 ba b6 24 ec 95 ce 27 fd 6d 2d f0 74 b9 75 a6 55 c4 e4 54 cd 0a de 35 52 c3",
+        "key": "24 cf aa 27 79 a2 3e 0f",
+        "mac_size": 2,
+        "mac": "2b 91"
+    },
+    {
+        "message": "d4 89 b9 bb 19 b7 de 2b 0c f7 57 29 3b 06 f3 cb 15 0e ad 7b cc a4 40 5c 0a 7e ca 64 7b 5c bd 1e f6 e1 8f 63 83 a0 82 3f 36 46 6c ca e5 92 1e f6 95 3c df 33 bd 94 52 e7 82 bd ee f1 3d c5 11 93 5d 62 96 d9 68 ef d4 13 7b 32 cd 7d 66 78 61 d1 db 7b 51 e0 49 71 b7 0d b1 31 bc 8c 6c 6c a5 d6 f7 c9 17 eb 68 bb b4 41 f9 94 0e 7d f5 69 3c 15 8c d0 44 fa fd 87 5a c7 0e db 75 be e8",
+        "key": "24 cf aa 27 79 a2 3e 0f",
+        "mac_size": 2,
+        "mac": "21 cd"
+    },
+    {
+        "message": "",
+        "key": "24 cf aa 27 79 a2 3e 0f",
+        "mac_size": 3,
+        "mac": "4b 16 d9"
+    },
+    {
+        "message": "5f 9b 82 a8 64 63 fd 9c dc e1 7f fe c8 26 0a fb 7a 16 0c b2 ec a0 1a 16 b2 c3 b4 3e 6a 5b 68 dd a5",
+        "key": "24 cf aa 27 79 a2 3e 0f",
+        "mac_size": 3,
+        "mac": "2e d1 75"
+    },
+    {
+        "message": "b8 ab aa 2c e0 ae 72 2b 30 9f 03 73 c2 8d 9d 67 24 f5 d5 e4 c1 04 0e b4 b5 22 5b 8f 68 21 d6 30 a0 2a a0 af 8b 59 5a 6c 44 8c 3f b3 43 ff b7 3a 63 a9 55 6f fb 80 ef 69 6d 19 a6 30 1a 61 34 3b 44 3c b9",
+        "key": "24 cf aa 27 79 a2 3e 0f",
+        "mac_size": 3,
+        "mac": "9a fd da"
+    },
+    {
+        "message": "df a6 f8 b3 37 c1 24 da 80 ec aa d5 f6 c9 49 5c ba f3 31 7b 7a bc 48 d6 2f 2d 59 b6 9a ee 66 21 53 cc 3c c1 2d 05 0d ec c1 38 c6 ce 8b bd c8 32 4c 21 59 cd 9c 59 1e 92 ec 74 46 a8 57 32 bc d9 4d 7b 1b bd 0d 3c 6c 0d d2 74 b8 ba 7a a4 3c af 4e 1c df 85 1e bb 9a b3 27 51 c9 cb 2f ce b4 2f 07 31 70 30 8a d6 1b 14 8d f0 4a b8 f5 54 bf 64 dc f1 6a a3 51 2a fc ae 8e 6c 8a",
+        "key": "24 cf aa 27 79 a2 3e 0f",
+        "mac_size": 3,
+        "mac": "98 49 a9"
+    },
+    {
+        "message": "a9 7d c5 00 0f 4e b6 9a 6b 57 a1 80 5c a1 15 eb 2b b8 3f 3a 57 b5 1c ca ae fb 06 e6 e5 41 ce b0 c2 4c e1 b6 9f b6 98 e6 a2 ae 7a 91 5d 96 0f df 1f 03 11 ed 2e a1 de 53 78 3a b0 50 df f0 59 dc 8f 6b 93 7d 9c 2e d8 e2 b7 aa 53 eb 3a a6 14 95 f9 38 c5 f0 0d 91 e5 ec 82 e4 4f a0 79 04 eb 2c 74 39 d0 cc 43 5d 51 cd 54 8a 2d 78 11 60 1d 3e 09 02 1f 60 f5 5c 51 66 26 11 98 76",
+        "key": "24 cf aa 27 79 a2 3e 0f",
+        "mac_size": 3,
+        "mac": "48 10 39"
+    },
+    {
+        "message": "93 8d 0b 82 8c 2b 5b 1b f1 03 f8 6b 38 57 73 9a f5 83 4e 84 03 2b 2e ba ce f3 b9 17 4f 06 23 3f 56 71 1a 0f 99 3a e8 1b f1 cf 6c b9 2e ad b3 10 6d 88 36 45 5a cf 71 3f 8e 33 0d 47 4c 5e 0a b8 da 69 44 b3 97 a3 36 57 5c 30 b3 c1 26 7e 4e 49 0b 1a f4 88 ad 6f 41 5e a1 40 57 d1 3b c6 a6 22 72 50 c4 59 39 3a 40 c5 95 c4 d9 e3 e6 01 19 91 8a 48 63 a3 ff ad e2 ca 2f 0e c3 d8 e8",
+        "key": "24 cf aa 27 79 a2 3e 0f",
+        "mac_size": 3,
+        "mac": "43 24 9a"
+    },
+    {
+        "message": "",
+        "key": "24 cf aa 27 79 a2 3e 0f",
+        "mac_size": 4,
+        "mac": "30 4b 16 d9"
+    },
+    {
+        "message": "ff 1c 5c d0 28 c3 cb 20 13 9b 71 b3 3e 11 4f 12 d2 7a 95 ec 78 b9 94 03 6f d3 14 c1 6c a4 0a c5 73",
+        "key": "24 cf aa 27 79 a2 3e 0f",
+        "mac_size": 4,
+        "mac": "89 5a 07 d9"
+    },
+    {
+        "message": "15 94 8c a5 35 d8 4f 1e 1c 60 41 ea 76 ad 41 67 b5 c4 2b f5 1c 24 1f 9d 4b 95 6d 9e 76 a0 e0 05 7d 00 da 29 02 3e b4 98 86 68 d4 22 6f 3b 6f 68 56 30 fe 3d 9b f0 c0 79 a5 47 20 76 a0 97 f4 10 79 f7 2b",
+        "key": "24 cf aa 27 79 a2 3e 0f",
+        "mac_size": 4,
+        "mac": "0c 37 d0 ae"
+    },
+    {
+        "message": "28 4c 07 14 a4 3e b5 57 b0 a5 00 a6 63 98 16 a8 f2 43 ee 44 91 36 8b c4 b2 c6 82 27 91 b3 7f a3 19 a3 e2 dd 62 2f d4 e2 77 04 a1 0e c4 6e 16 71 9c 3b fe b3 f2 47 77 bc 7d 62 b3 d2 8e 6f 02 85 ec 7a 83 e5 03 96 9c 0a 45 45 c5 a8 4b ca df f9 4f ff ba 0d 33 77 8e 08 fb b7 05 70 8b d6 b2 e3 80 0c e0 df 85 af ca 87 a0 63 18 69 f2 15 bf 8c 2d f7 0c 89 9e db 7e 4f 28 28 be",
+        "key": "24 cf aa 27 79 a2 3e 0f",
+        "mac_size": 4,
+        "mac": "18 7a 5b 6c"
+    },
+    {
+        "message": "fd 9f 11 9a 0d c4 b8 93 66 ff 6f ae 8f 17 4f 5c bd f6 c7 4a d0 65 9a 97 54 7f ac 22 30 85 e7 76 87 76 60 b9 d9 8a 2d 55 c7 ee 57 5b 65 f1 de 11 a2 36 8c e2 c9 f4 a9 42 16 d6 8b b4 bc 5d be fe d9 38 4a e1 1d 4f f0 4a af c7 0e a7 d2 2b 2f 59 e2 a1 f4 b3 89 53 28 fb 2f 1b 0a 8f dc d6 4e 1a 09 ce 2e f1 e1 3c b6 40 bd 5f 72 a0 2e b7 6a 60 ea 2d 35 50 4d 8f ce 76 82 18 8b 6d",
+        "key": "24 cf aa 27 79 a2 3e 0f",
+        "mac_size": 4,
+        "mac": "13 2a 39 68"
+    },
+    {
+        "message": "95 bc aa 67 3a ac a9 2a 36 f7 46 46 06 0b b4 1d 47 ed 7f 26 4e 79 da ed 4a c3 2f 8e 28 41 13 9e 39 4d 42 2b c2 ad d6 d8 8b 28 ef 00 1a e6 ae 71 e1 0d 57 c2 4f 75 87 cd ed 9f 7d c3 c9 99 66 ed c9 d8 75 5c 2e 03 1d 6e 4a 52 c4 e1 1a 66 69 44 55 26 c7 28 4d 4e 41 50 ed 39 a6 e6 36 76 4e 30 40 ea 70 ae b5 a4 a6 a3 74 b2 94 ab 76 31 f3 20 2b e2 ce 0c 95 71 b8 0d a4 33 02 c3 95",
+        "key": "24 cf aa 27 79 a2 3e 0f",
+        "mac_size": 4,
+        "mac": "91 df d5 92"
+    }
+]

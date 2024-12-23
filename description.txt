@@ -1,0 +1,24 @@
+(1)What is the principle of your attack in Task 2a and its expected runtime?
+
+In task 2a the principle of attack is a birthday attack. In this case the Keeloq MAC is relatively short (3-4 bytes) and is vulnerable to this kind of attack. The birthday attack leverages the probability that, given enough attempts storing all previous Macs and their Messages, two different inputs will give the same MAC output.
+
+The birthday attack runtime is approximately 2^n/2, so expected runtime for 
+	3 byte MAC is 4096 attempts
+	4 byte MAC is 65536 attempts
+
+
+(2)How and why is it possible to generate the special SHA1 collisions in Task 2b?
+
+I task 2b SHA-1 collision relies on well-known weakness in the SHA-1 hash function, where two different inputs can produce same hash output due to weaknesses in SHA-1 compression function. This attack could be called chosen prefix collision. We use 2 predefined "collision prefixes" which produce same SHA-1 hash. Collision prefixes are specially made to specifically match at certain stage and make same final hash. By appending same message to both prefixes, we ensure the both messages have desired substring.
+
+
+(3)Describe the principle of your attack in Task 2c.
+
+This attack strategy basically combines the last two strategies. First we use SHA-1 collision (same as in 2b) and append the msg input to these prefixes (we create different msg1 and msg2). In second step we use birthday attack to find key1 and key2 that results in mac_keeloq(msg1, key1) = mac_keeloq(msg2, key2). Once MAC collision in found, 
+sha1(msg1 || mac_keeloq(msg1, key1)) and sha1(msg2 || mac_keeloq(msg2, key2)) should be equal due to SHA-1 prefix and same MAC outputs.
+
+
+(4)Consider a final MAC scheme, where given message msg and key K the tag t is computed as follows t = sha1(msg || K) || mac_keeloq(msg, K, mac_size). Compared to mac_combined from Task 2c, which MAC scheme is more collision resistant and why?
+
+t = sha1(msg || K) || mac_keeloq(msg, K, mac_size) is less collision resistant than mac_combined. mac_combined creates dependency between the SHA-1 and MAC component, SHA-1 hash is computed over the concatenation of the message and its KeeLoq MAC. t = sha1(msg || K) || mac_keeloq(msg, K, mac_size) we can first do birthday attack on MAC and then use K and msg from the mac to form prefix collision. Because of the independent components, finding a collision for this scheme requires less work overall, as each part can be attacked separately.
+ 
